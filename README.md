@@ -1,4 +1,4 @@
-# Hello, I am Mike and my discord is sefwwefwerv2. I have many things I like:
+# Hello, I am Mike and my discord is sefwefwerv2. I have many things I like:
 ### Reverse Engineering
 ### Roblox memory hacking (working on exploit etc..)
 ### And lastly discord.
